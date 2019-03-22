@@ -99,9 +99,13 @@
 
     <distributionManagement>
         <repository>
-            <id>nexus-releases</id>
-            <url>http://localhost:32771/repository/maven-releases</url>
+            <id>artifactory-releases</id>
+            <url>http://localhost:8081/artifactory/libs-release-local</url>
         </repository>
+        <snapshotRepository>
+            <id>artifactory-releases</id>
+            <url>http://localhost:8081/artifactory/libs-snapshot-local</url>
+        </snapshotRepository>
     </distributionManagement>
 
     <scm>
