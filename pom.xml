@@ -91,7 +91,7 @@
                 <configuration>
                     <tagNameFormat>v@{project.version}</tagNameFormat>
                     <autoVersionSubmodules>true</autoVersionSubmodules>
-                    <releaseProfiles>releases</releaseProfiles>
+                    <!--<releaseProfiles>releases</releaseProfiles>-->
                 </configuration>
             </plugin>
         </plugins>
