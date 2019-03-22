@@ -5,8 +5,10 @@ import javax.jms.JMSException;
 import com.sagawalabs.jms.util.DataUtil;
 import org.junit.After;
 import org.junit.Before;
+import org.junit.Ignore;
 import org.junit.Test;
 
+@Ignore
 public class ActiveMQMessageProducerTest {
 
     private ActiveMQMessageProducer msgQueueSender;
