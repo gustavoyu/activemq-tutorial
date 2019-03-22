@@ -1,0 +1,12 @@
+
+gsquid:UnusedPrivateMethod"=Remove this unused private "exclusive_queue_Consumer" method.(•»‰é8ÔëœÊ™-
+ksquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•»‰é8ÔëœÊ™-
+wsquid:S1192"VDefine a constant instead of duplicating this literal "tcp://localhost:32768" 6 times.(’Ä£‚úÿÿÿÿ8ÔëœÊ™-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÔëœÊ™-
+hsquid:S1192"GDefine a constant instead of duplicating this literal "admin" 12 times.(’Ä£‚úÿÿÿÿ8ÔëœÊ™-
+psquid:S00100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£â®­ùÿÿÿÿ8ÔëœÊ™-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÔëœÊ™-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÔëœÊ™-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÔëœÊ™-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÔëœÊ™-
+Dsquid:S1148"#Use a logger to log this exception.(€ÉÔ…ıÿÿÿÿ8ÔëœÊ™-
