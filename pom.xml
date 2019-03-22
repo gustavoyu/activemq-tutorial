@@ -100,7 +100,7 @@
     <distributionManagement>
         <repository>
             <id>nexus-releases</id>
-            <url>http://localhost:32771/nexus/content/repositories/releases</url>
+            <url>http://localhost:32771/repository/maven-releases</url>
         </repository>
     </distributionManagement>
 
