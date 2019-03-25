@@ -112,7 +112,7 @@
         <connection>scm:git:git@github.com:gustavoyu/activemq-tutorial.git</connection>
         <url>scm:git:git@github.com:gustavoyu/activemq-tutorial.git</url>
         <developerConnection>scm:git:git@github.com:gustavoyu/activemq-tutorial.git</developerConnection>
-      <tag>release/22.0.0</tag>
+      <tag>release/27.0.0</tag>
   </scm>
 
 
