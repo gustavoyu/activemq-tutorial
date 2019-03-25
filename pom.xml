@@ -4,7 +4,7 @@
 
     <groupId>com.sagawalabs.jms</groupId>
     <artifactId>activemq-tutorial</artifactId>
-    <version>19.0.0-SNAPSHOT</version>
+    <version>19.0.0</version>
 
     <dependencies>
         <dependency>
@@ -112,7 +112,7 @@
         <connection>scm:git:git@github.com:gustavoyu/activemq-tutorial.git</connection>
         <url>scm:git:git@github.com:gustavoyu/activemq-tutorial.git</url>
         <developerConnection>scm:git:git@github.com:gustavoyu/activemq-tutorial.git</developerConnection>
-      <tag>v15.0.0</tag>
+      <tag>19.0.0-SNAPSHOT</tag>
   </scm>
 
 
