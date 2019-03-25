@@ -4,7 +4,7 @@
 
     <groupId>com.sagawalabs.jms</groupId>
     <artifactId>activemq-tutorial</artifactId>
-    <version>32.0.1-SNAPSHOT</version>
+    <version>34.0.0</version>
 
     <dependencies>
         <dependency>
